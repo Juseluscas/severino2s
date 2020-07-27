@@ -1,1 +1,1 @@
-web: node package-lock.json
+web: yarn start
