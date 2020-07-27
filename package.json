@@ -1,11 +1,11 @@
 {
-  "name": "Bot_severino",
-  "description": "a really cool app",
-  "version": "1.0.0",
-  "engines": {
-    "node": "12.16.1"
-  },
-  "dependencies": {
-    "express": "^4.17.1"
+    "name": "Bot_severino",
+    "description": "a really cool app",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "main.js"
+        },
+    "engines": {
+      "node": "12.16.1"
+    }
   }
-}
