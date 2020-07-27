@@ -1440,4 +1440,4 @@ controller.hears([".*"], "direct_message,direct_mention", function(
 });
 
 ACCESS_TOKEN="Y2JjNjQzMGItYTU3OC00OTNkLTgxODQtNDUxNWQ3YTI4ZGY3NGM4OGFjYTctM2Ex_PF84_a892a6ed-b823-46b8-8336-847d8f4722ae"
-PUBLIC_URL="https://bb35e463.ngrok.io node main.js"
+PUBLIC_URL="https://severinoteste.herokuapp.com/"
