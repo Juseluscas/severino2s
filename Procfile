@@ -1,1 +1,1 @@
-web: node BOT_SEVERINO/main.js
+web: main.js
