@@ -1,1 +1,1 @@
-web: node main.js
+web: node package-lock.json
